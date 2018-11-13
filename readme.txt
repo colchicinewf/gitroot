@@ -1,3 +1,4 @@
 douoidsifn
 dsfiaosduf  GPL
-creat a new branch is quick & simple.
+<<<<<<< HEAD
+creat a new branch is quick and simple.
